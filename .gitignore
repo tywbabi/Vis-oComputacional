@@ -1,0 +1,18 @@
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Modelo YOLO
+*.pt
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
